@@ -41,4 +41,4 @@ In reality, we probably just gonna write
 nums = [x for x in nums if x != val]
 ```
 
-This problem is pure pattern memorization. If you know it, it’s trivial; if you don’t, you’ll look slow — and a clueless interviewer might take that as a sign you’re “not good enough,” which says more about them than about you.
+This problem is pure pattern memorization. If you know it, it’s trivial; if you don’t, you’ll look slow and a clueless interviewer might take that as a sign you’re “not good enough,” which says more about them than about you.
