@@ -58,5 +58,5 @@ But LeetCode needs you to do this manually because… tradition.
 
 This problem is another pattern-recognition exercise.
 If you know the “sorted array + two pointers” trick, this feels trivial.
-If you don’t, you’ll be slower — and again, a not-so-bright interviewer may think this somehow reflects your real engineering ability.
+If you don’t, you’ll be slower and again, a not-so-bright interviewer may think this somehow reflects your real engineering ability.
 (It doesn’t.)
